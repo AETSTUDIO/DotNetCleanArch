@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using CleanArc.Application.Interfaces;
 using CleanArc.Application.ViewModels;
 using CleanArc.Domain.Interfaces;
 
